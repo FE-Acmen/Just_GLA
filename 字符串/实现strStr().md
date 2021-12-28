@@ -33,3 +33,4 @@ var strStr = function(haystack, needle) {
 };
 ```
 
+**思路**
